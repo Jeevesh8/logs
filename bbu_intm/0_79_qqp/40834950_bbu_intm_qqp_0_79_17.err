@@ -1,0 +1,60 @@
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_1 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_5 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_3 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_7 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_2 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_6 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_8 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_4 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_9 into local empty directory.
+/scratch/sja491/jeevesh/connectivity/interpolate/interpolate_1d.py:79: FutureWarning: load_metric is deprecated and will be removed in the next major version of datasets. Use 'evaluate.load' instead, from the new library 🤗 Evaluate: https://huggingface.co/docs/evaluate
+  metric = load_metric("glue", "qqp", experiment_id=args.experiment_id)
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_3 into local empty directory.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/transformers/modeling_flax_pytorch_utils.py:431: UserWarning: The given NumPy array is not writable, and PyTorch does not support non-writable tensors. This means writing to this tensor will result in undefined behavior. You may want to copy the array to protect its data or make it writable before converting it to a tensor. This type of warning will be suppressed for the rest of this program. (Triggered internally at /opt/conda/conda-bld/pytorch_1699449181202/work/torch/csrc/utils/tensor_numpy.cpp:206.)
+  pt_model_dict[flax_key] = torch.from_numpy(flax_tensor)
+All Flax model weights were used when initializing BertForSequenceClassification.
+
+All the weights of BertForSequenceClassification were initialized from the Flax model.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use BertForSequenceClassification for predictions without further training.
+/ext3/miniconda3/envs/interpolate/lib/python3.10/site-packages/huggingface_hub/utils/_deprecation.py:127: FutureWarning: 'Repository' (from 'huggingface_hub.repository') is deprecated and will be removed from version '1.0'. Please prefer the http-based alternatives instead. Given its large adoption in legacy code, the complete removal is only planned on next major release.
+For more details, please read https://huggingface.co/docs/huggingface_hub/concepts/git_vs_http.
+  warnings.warn(warning_message, FutureWarning)
+Cloning https://huggingface.co/Jeevesh8/bbu_intm__qqp_0_79_0._ft_6 into local empty directory.
+All Flax model weights were used when initializing BertForSequenceClassification.
+
+All the weights of BertForSequenceClassification were initialized from the Flax model.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use BertForSequenceClassification for predictions without further training.
+All Flax model weights were used when initializing BertForSequenceClassification.
+
+All the weights of BertForSequenceClassification were initialized from the Flax model.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use BertForSequenceClassification for predictions without further training.
